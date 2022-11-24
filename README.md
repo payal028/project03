@@ -7,9 +7,7 @@ abhishek
 akash
 priyanka
 soni
-rose
-jasmine
-lily
-marigold
-lotus
-hibiscus
+guru
+abhijeet
+surbhi
+kiran
