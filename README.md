@@ -11,3 +11,5 @@ rose
 jasmine
 lily
 marigold
+lotus
+hibiscus
