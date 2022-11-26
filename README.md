@@ -9,8 +9,8 @@ priyanka
 soni
 guru
 abhijeet
-surbhi
-kiran
-neha
-priya
-parul
+pune
+nagpur
+mumbai
+nasik
+chandrapur
